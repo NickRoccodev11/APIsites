@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+
+h1,
+label{
+    color: beige;
+}
+
+#answer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+span{
+
+    color: beige;
+    margin-top: 50px;
+}
+
+img{
+   width: 100px; 
+}
+
+h2{
+    text-align: center;
+    color: beige;
+    font-size: 2em;
+
+}
+

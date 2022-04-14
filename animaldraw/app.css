@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(166, 235, 166);
+}
+
+h1, h2{
+    text-align: center;
+    color: rgb(15, 114, 36);
+}
+
+.hidden{
+    visibility: hidden;
+}
